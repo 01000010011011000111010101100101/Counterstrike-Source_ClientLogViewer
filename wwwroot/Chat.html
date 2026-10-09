@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chat</title>
+</head>
+
+<script src="script.js"></script>
+<script>
+	var hostname="localhost"
+	var wsUriDReport = "ws://"+hostname+":5002/";
+	function init(){
+		webSocketChat(wsUriChat);
+	}
+	window.addEventListener("load", init, false);
+</script>
+
+<body style="background-color:black;color:white">
+	<div id="chatM" style="z-index: 1;background-color:black;height:40vh;width:90vw;margin-top:2vh;margin-left:0vw;text-align:left;overflow-y: scroll;"/>
+</body>
+</html>
