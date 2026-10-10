@@ -5,7 +5,7 @@ Für mich war es unangenehm .. läßtig, staendig in der Console durch ~100 Zeil
 <li>Wen ich getroffen(Weiß), gekillt habe(Grün)</li>
 <li>Wer den Server betritt .. ich sage gern Moin moin.(Gelb 60% Deckkraft)</li>
 <li>Admin Nachrichten(Gelb zwischen Trennlinien) &#x26; Spielerchat(Weiß,Türkis im Wechsel) sehen und nochmal leichter nachlesen, z.B wenn man auf die nächste Runde wartet</li>
-<li>Uhrzeit, so sieht man wann die Chatmessage kam -und man brauch das Fenster nicht wechseln um zu sehen ob es Bedtime ist. &#x1F601;</li>
+<li>Uhrzeit, so sieht man, wann die Chatmessage empfangen wurde, und man braucht das Fenster nicht zu wechseln, um zu sehen, ob es Bedtime ist. &#x1F601;</li>
 </ul>
 <img src="https://raw.githubusercontent.com/01000010011011000111010101100101/Counterstrike-Source_ClientLogViewer/refs/heads/main/doc/img/CSSClientLogViewer_index_01.png"/>
 
@@ -92,7 +92,7 @@ Starte zwei Prowershells
 </tr>
 <tr>
 <td>als Administrator<br/>Win+x | &#x229E;+x , Terminal(Administrator) </td>
-<td><img src="https://raw.githubusercontent.com/01000010011011000111010101100101/Counterstrike-Source_ClientLogViewer/refs/heads/main/doc/img/PSasAdmin.png" widht=120px height=120px/><br/><br/>UTF8 support in Windows Powershell<br/>To activate it:<br/><br/><blockquote>
+<td><img src="https://raw.githubusercontent.com/01000010011011000111010101100101/Counterstrike-Source_ClientLogViewer/refs/heads/main/doc/img/PSasAdmin.png" widht=120px height=120px/><br/><br/>UTF8 support in Windows Powershell aktivieren:<br/><br/><blockquote>
      intl.cpl &crarr; #(which opens the regional settings in Control Panel)
     </blockquote><br/>
     folge 1.,2.,3.  s. folgenden screenshot. Das System muss neugestartet werden.<br/>
