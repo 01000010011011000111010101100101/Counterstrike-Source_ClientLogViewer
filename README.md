@@ -1,5 +1,5 @@
 # **Counterstrike-Source_ClientLogViewer**
-Für mich war es unangenehm .. läßtig, staendig in der Console durch ~100 Zeilen zu gehen, um nachzulesen was jemand in den Chat geschrieben hat oder um zu sehen ob ich den Gegner überhaupt getroffen habe. Deshalb habe ich die App gebaut, mit der ich auf einem zweiten Monitor oder Tablet via Webbrowser auf einen Blick sehe was mich interessiert.
+Für mich war es unangenehm .. lästig, staendig in der Console durch ~100 Zeilen zu gehen, um nachzulesen was jemand in den Chat geschrieben hat oder um zu sehen ob ich den Gegner überhaupt getroffen habe. Deshalb habe ich die App gebaut, mit der ich auf einem zweiten Monitor oder Tablet via Webbrowser auf einen Blick sehe was mich interessiert.
 <ul>
 <li>Wer mich getroffen(Weiß), gekillt hat(Rot)</li>
 <li>Wen ich getroffen(Weiß), gekillt habe(Grün)</li>
