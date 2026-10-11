@@ -9,8 +9,9 @@ Für mich war es unangenehm .. läßtig, staendig in der Console durch ~100 Zeil
 </ul>
 <img src="https://raw.githubusercontent.com/01000010011011000111010101100101/Counterstrike-Source_ClientLogViewer/refs/heads/main/doc/img/CSSClientLogViewer_index_01.png"/>
 
-[![Video-Titel](https://img.youtube.com/vi/I8PVUq3ZD3U/maxresdefault.jpg)](https://www.youtube.com/watch?v=I8PVUq3ZD3U)
-https://youtu.be/I8PVUq3ZD3U
+[![Video-Titel](https://img.youtube.com/vi/0hXtiH-MRKI/maxresdefault.jpg)](https://www.youtube.com/watch?v=0hXtiH-MRKI)
+
+https://youtu.be/0hXtiH-MRKI 
 
 &#42;Die App ist für Deutsch CSS. Hat man andere Sprache eingestellt, muss im Code die Abfragen/Filter entsprechend angepasst werden.
 <hr/>
@@ -18,7 +19,10 @@ https://youtu.be/I8PVUq3ZD3U
 
 
 ## Installation
- s. <a href="https://youtube.com">Video</a> 
+[![Video-Titel](https://img.youtube.com/vi/0e7yQd3XdEk/maxresdefault.jpg)](https://www.youtube.com/watch?v=0e7yQd3XdEk)
+
+https://youtu.be/0e7yQd3XdEk
+
 ### File Details (zip)
 <img src="https://raw.githubusercontent.com/01000010011011000111010101100101/Counterstrike-Source_ClientLogViewer/refs/heads/main/doc/img/githubzipdownload.png" widht=120px height=200px/>
 
@@ -80,7 +84,7 @@ Aktivieren der Console &#x26; Connection debug, bei start von CSS
 
 Ausführliche Information, wie man ein "self signed certificat" erstellt und sein Script signiert<br/><a href="https://www.powershelltips.com/powershell-sign-scripts/">https://www.powershelltips.com/powershell-sign-scripts/</a>
 
-Aus dem Link in kurz, s. <a href="https://youtube.com">Video </a> bzw. in Textform folgend:
+Aus dem Link in kurz, s. <a href="https://youtu.be/0e7yQd3XdEk" target="_blank">Video </a> bzw. in Textform folgend:
 Da das Video mittels einer VM gemacht, welche nur zur Demo der Installation existiert, gibt es dort nur die logfile .. kein Steam. vgl. Bild oben (Pfad)
 
 Starte zwei Prowershells
